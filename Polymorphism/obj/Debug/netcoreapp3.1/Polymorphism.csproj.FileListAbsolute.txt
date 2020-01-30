@@ -1,0 +1,11 @@
+/Users/ntuf/Documents/C#/Polymorphism/bin/Debug/netcoreapp3.1/Polymorphism
+/Users/ntuf/Documents/C#/Polymorphism/bin/Debug/netcoreapp3.1/Polymorphism.deps.json
+/Users/ntuf/Documents/C#/Polymorphism/bin/Debug/netcoreapp3.1/Polymorphism.runtimeconfig.json
+/Users/ntuf/Documents/C#/Polymorphism/bin/Debug/netcoreapp3.1/Polymorphism.runtimeconfig.dev.json
+/Users/ntuf/Documents/C#/Polymorphism/bin/Debug/netcoreapp3.1/Polymorphism.dll
+/Users/ntuf/Documents/C#/Polymorphism/bin/Debug/netcoreapp3.1/Polymorphism.pdb
+/Users/ntuf/Documents/C#/Polymorphism/obj/Debug/netcoreapp3.1/Polymorphism.csprojAssemblyReference.cache
+/Users/ntuf/Documents/C#/Polymorphism/obj/Debug/netcoreapp3.1/Polymorphism.AssemblyInfoInputs.cache
+/Users/ntuf/Documents/C#/Polymorphism/obj/Debug/netcoreapp3.1/Polymorphism.AssemblyInfo.cs
+/Users/ntuf/Documents/C#/Polymorphism/obj/Debug/netcoreapp3.1/Polymorphism.dll
+/Users/ntuf/Documents/C#/Polymorphism/obj/Debug/netcoreapp3.1/Polymorphism.pdb

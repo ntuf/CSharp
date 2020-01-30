@@ -1,0 +1,11 @@
+/Users/ntuf/Documents/C#/Ramda2/bin/Debug/netcoreapp3.1/Ramda2
+/Users/ntuf/Documents/C#/Ramda2/bin/Debug/netcoreapp3.1/Ramda2.deps.json
+/Users/ntuf/Documents/C#/Ramda2/bin/Debug/netcoreapp3.1/Ramda2.runtimeconfig.json
+/Users/ntuf/Documents/C#/Ramda2/bin/Debug/netcoreapp3.1/Ramda2.runtimeconfig.dev.json
+/Users/ntuf/Documents/C#/Ramda2/bin/Debug/netcoreapp3.1/Ramda2.dll
+/Users/ntuf/Documents/C#/Ramda2/bin/Debug/netcoreapp3.1/Ramda2.pdb
+/Users/ntuf/Documents/C#/Ramda2/obj/Debug/netcoreapp3.1/Ramda2.csprojAssemblyReference.cache
+/Users/ntuf/Documents/C#/Ramda2/obj/Debug/netcoreapp3.1/Ramda2.AssemblyInfoInputs.cache
+/Users/ntuf/Documents/C#/Ramda2/obj/Debug/netcoreapp3.1/Ramda2.AssemblyInfo.cs
+/Users/ntuf/Documents/C#/Ramda2/obj/Debug/netcoreapp3.1/Ramda2.dll
+/Users/ntuf/Documents/C#/Ramda2/obj/Debug/netcoreapp3.1/Ramda2.pdb

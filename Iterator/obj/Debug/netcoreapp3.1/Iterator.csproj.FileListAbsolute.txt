@@ -1,0 +1,11 @@
+/Users/ntuf/Documents/C#/Iterator/bin/Debug/netcoreapp3.1/Iterator
+/Users/ntuf/Documents/C#/Iterator/bin/Debug/netcoreapp3.1/Iterator.deps.json
+/Users/ntuf/Documents/C#/Iterator/bin/Debug/netcoreapp3.1/Iterator.runtimeconfig.json
+/Users/ntuf/Documents/C#/Iterator/bin/Debug/netcoreapp3.1/Iterator.runtimeconfig.dev.json
+/Users/ntuf/Documents/C#/Iterator/bin/Debug/netcoreapp3.1/Iterator.dll
+/Users/ntuf/Documents/C#/Iterator/bin/Debug/netcoreapp3.1/Iterator.pdb
+/Users/ntuf/Documents/C#/Iterator/obj/Debug/netcoreapp3.1/Iterator.csprojAssemblyReference.cache
+/Users/ntuf/Documents/C#/Iterator/obj/Debug/netcoreapp3.1/Iterator.AssemblyInfoInputs.cache
+/Users/ntuf/Documents/C#/Iterator/obj/Debug/netcoreapp3.1/Iterator.AssemblyInfo.cs
+/Users/ntuf/Documents/C#/Iterator/obj/Debug/netcoreapp3.1/Iterator.dll
+/Users/ntuf/Documents/C#/Iterator/obj/Debug/netcoreapp3.1/Iterator.pdb

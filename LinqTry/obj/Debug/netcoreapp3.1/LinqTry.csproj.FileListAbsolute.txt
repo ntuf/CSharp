@@ -1,0 +1,11 @@
+/Users/ntuf/Documents/C#/LinqTry/obj/Debug/netcoreapp3.1/LinqTry.csprojAssemblyReference.cache
+/Users/ntuf/Documents/C#/LinqTry/obj/Debug/netcoreapp3.1/LinqTry.AssemblyInfoInputs.cache
+/Users/ntuf/Documents/C#/LinqTry/obj/Debug/netcoreapp3.1/LinqTry.AssemblyInfo.cs
+/Users/ntuf/Documents/C#/LinqTry/bin/Debug/netcoreapp3.1/LinqTry
+/Users/ntuf/Documents/C#/LinqTry/bin/Debug/netcoreapp3.1/LinqTry.deps.json
+/Users/ntuf/Documents/C#/LinqTry/bin/Debug/netcoreapp3.1/LinqTry.runtimeconfig.json
+/Users/ntuf/Documents/C#/LinqTry/bin/Debug/netcoreapp3.1/LinqTry.runtimeconfig.dev.json
+/Users/ntuf/Documents/C#/LinqTry/bin/Debug/netcoreapp3.1/LinqTry.dll
+/Users/ntuf/Documents/C#/LinqTry/bin/Debug/netcoreapp3.1/LinqTry.pdb
+/Users/ntuf/Documents/C#/LinqTry/obj/Debug/netcoreapp3.1/LinqTry.dll
+/Users/ntuf/Documents/C#/LinqTry/obj/Debug/netcoreapp3.1/LinqTry.pdb

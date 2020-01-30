@@ -1,0 +1,11 @@
+/Users/ntuf/Documents/C#/Ex1/bin/Debug/netcoreapp3.1/Ex1
+/Users/ntuf/Documents/C#/Ex1/bin/Debug/netcoreapp3.1/Ex1.deps.json
+/Users/ntuf/Documents/C#/Ex1/bin/Debug/netcoreapp3.1/Ex1.runtimeconfig.json
+/Users/ntuf/Documents/C#/Ex1/bin/Debug/netcoreapp3.1/Ex1.runtimeconfig.dev.json
+/Users/ntuf/Documents/C#/Ex1/bin/Debug/netcoreapp3.1/Ex1.dll
+/Users/ntuf/Documents/C#/Ex1/bin/Debug/netcoreapp3.1/Ex1.pdb
+/Users/ntuf/Documents/C#/Ex1/obj/Debug/netcoreapp3.1/Ex1.csprojAssemblyReference.cache
+/Users/ntuf/Documents/C#/Ex1/obj/Debug/netcoreapp3.1/Ex1.AssemblyInfoInputs.cache
+/Users/ntuf/Documents/C#/Ex1/obj/Debug/netcoreapp3.1/Ex1.AssemblyInfo.cs
+/Users/ntuf/Documents/C#/Ex1/obj/Debug/netcoreapp3.1/Ex1.dll
+/Users/ntuf/Documents/C#/Ex1/obj/Debug/netcoreapp3.1/Ex1.pdb

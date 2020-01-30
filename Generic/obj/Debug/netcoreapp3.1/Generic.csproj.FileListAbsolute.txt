@@ -1,0 +1,11 @@
+/Users/ntuf/Documents/C#/Generic/obj/Debug/netcoreapp3.1/Generic.csprojAssemblyReference.cache
+/Users/ntuf/Documents/C#/Generic/obj/Debug/netcoreapp3.1/Generic.AssemblyInfoInputs.cache
+/Users/ntuf/Documents/C#/Generic/obj/Debug/netcoreapp3.1/Generic.AssemblyInfo.cs
+/Users/ntuf/Documents/C#/Generic/bin/Debug/netcoreapp3.1/Generic
+/Users/ntuf/Documents/C#/Generic/bin/Debug/netcoreapp3.1/Generic.deps.json
+/Users/ntuf/Documents/C#/Generic/bin/Debug/netcoreapp3.1/Generic.runtimeconfig.json
+/Users/ntuf/Documents/C#/Generic/bin/Debug/netcoreapp3.1/Generic.runtimeconfig.dev.json
+/Users/ntuf/Documents/C#/Generic/bin/Debug/netcoreapp3.1/Generic.dll
+/Users/ntuf/Documents/C#/Generic/bin/Debug/netcoreapp3.1/Generic.pdb
+/Users/ntuf/Documents/C#/Generic/obj/Debug/netcoreapp3.1/Generic.dll
+/Users/ntuf/Documents/C#/Generic/obj/Debug/netcoreapp3.1/Generic.pdb

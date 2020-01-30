@@ -1,0 +1,11 @@
+/Users/ntuf/Documents/C#/Delegate2/obj/Debug/netcoreapp3.1/Delegate2.csprojAssemblyReference.cache
+/Users/ntuf/Documents/C#/Delegate2/obj/Debug/netcoreapp3.1/Delegate2.AssemblyInfoInputs.cache
+/Users/ntuf/Documents/C#/Delegate2/obj/Debug/netcoreapp3.1/Delegate2.AssemblyInfo.cs
+/Users/ntuf/Documents/C#/Delegate2/bin/Debug/netcoreapp3.1/Delegate2
+/Users/ntuf/Documents/C#/Delegate2/bin/Debug/netcoreapp3.1/Delegate2.deps.json
+/Users/ntuf/Documents/C#/Delegate2/bin/Debug/netcoreapp3.1/Delegate2.runtimeconfig.json
+/Users/ntuf/Documents/C#/Delegate2/bin/Debug/netcoreapp3.1/Delegate2.runtimeconfig.dev.json
+/Users/ntuf/Documents/C#/Delegate2/bin/Debug/netcoreapp3.1/Delegate2.dll
+/Users/ntuf/Documents/C#/Delegate2/bin/Debug/netcoreapp3.1/Delegate2.pdb
+/Users/ntuf/Documents/C#/Delegate2/obj/Debug/netcoreapp3.1/Delegate2.dll
+/Users/ntuf/Documents/C#/Delegate2/obj/Debug/netcoreapp3.1/Delegate2.pdb

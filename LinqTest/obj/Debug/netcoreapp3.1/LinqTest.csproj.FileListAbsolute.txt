@@ -1,0 +1,11 @@
+/Users/ntuf/Documents/C#/LinqTest/bin/Debug/netcoreapp3.1/LinqTest
+/Users/ntuf/Documents/C#/LinqTest/bin/Debug/netcoreapp3.1/LinqTest.deps.json
+/Users/ntuf/Documents/C#/LinqTest/bin/Debug/netcoreapp3.1/LinqTest.runtimeconfig.json
+/Users/ntuf/Documents/C#/LinqTest/bin/Debug/netcoreapp3.1/LinqTest.runtimeconfig.dev.json
+/Users/ntuf/Documents/C#/LinqTest/bin/Debug/netcoreapp3.1/LinqTest.dll
+/Users/ntuf/Documents/C#/LinqTest/bin/Debug/netcoreapp3.1/LinqTest.pdb
+/Users/ntuf/Documents/C#/LinqTest/obj/Debug/netcoreapp3.1/LinqTest.csprojAssemblyReference.cache
+/Users/ntuf/Documents/C#/LinqTest/obj/Debug/netcoreapp3.1/LinqTest.AssemblyInfoInputs.cache
+/Users/ntuf/Documents/C#/LinqTest/obj/Debug/netcoreapp3.1/LinqTest.AssemblyInfo.cs
+/Users/ntuf/Documents/C#/LinqTest/obj/Debug/netcoreapp3.1/LinqTest.dll
+/Users/ntuf/Documents/C#/LinqTest/obj/Debug/netcoreapp3.1/LinqTest.pdb
